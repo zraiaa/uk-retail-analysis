@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UK Online Store — Sales Data Cleaning & Customer Segmentation
 
 I took a real (and messy) sales dataset from a UK-based online gift shop and turned it into a clean, useful analysis. The dataset has 541,909 transactions from December 2010 to December 2011.
@@ -52,3 +53,7 @@ Source: https://archive.ics.uci.edu/dataset/352/online+retail
 ## About me
 
 This project was built as part of my personal portfolio to practice and show my data cleaning, analysis, and machine learning skills.
+=======
+# uk-retail-analysis
+Cleaned and analyzed 540K+ transactions from a UK online retailer — EDA on sales trends, geography, and product performance, plus RFM + K-Means customer segmentation to identify top-value customers.
+>>>>>>> eacbdfc25b9c3a24041a58baf4f7471f6c41233e
